@@ -1,0 +1,37 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-image:   url("../images/Greenery.gif");
+  margin: 0 auto;
+  max-width: 600px;
+  border-style: solid;
+  border-width: 1em;
+}
+
+p, h1, li {
+  color: chartreuse;
+  border-width: 10px;
+}
+
+p, li {
+  font-size: 16px;  
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+h1 {
+  color: blue;
+  text-shadow: 3px 3px 1px black;
+  text-align: center;
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  border-width: 1em;
+  display: block;
+  margin: 0 auto;
+}
